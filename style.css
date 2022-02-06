@@ -1,0 +1,22 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+body{
+    background-size: cover;
+}
+
+.link{
+    background-color: azure;
+    border-radius: 20px;
+    width: 250px;
+    margin: 15px;
+    font-size:30px;
+}
+
+.link:hover{
+    font-size: 40px;
+}
